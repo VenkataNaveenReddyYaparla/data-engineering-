@@ -30,7 +30,7 @@
 > [joining-script.py](joining)
 
 
-![ETL-Joining_Data](joining img.png)
+![ETL-Joining_Data](https://github.com/VenkataNaveenReddyYaparla/youtube-data-analysis/blob/f4bbc8a764a84ce9d6703296135a0aecc358e90b/Youtube%20de%20dashboard.pdf)
 
 * GG. The data is now ready!!!!! 👍
  Resouces:
