@@ -30,10 +30,10 @@
 > [joining-script.py](joining)
 
 
-![ETL-Joining_Data](https://github.com/VenkataNaveenReddyYaparla/youtube-data-analysis/blob/f4bbc8a764a84ce9d6703296135a0aecc358e90b/Youtube%20de%20dashboard.pdf)
+![ETL-Joining_Data](https://github.com/VenkataNaveenReddyYaparla/youtube-data-analysis/blob/0e59b22c153a69f4b5c744b26999ee374c29d413/joining%20img.png)
 
 * GG. The data is now ready!!!!! 👍
  Resouces:
 [Kaggle](https://www.kaggle.com/)
 
-### [QuickSight Dashboard](Youtube de dashboard.pdf)
+### [QuickSight Dashboard](https://github.com/VenkataNaveenReddyYaparla/youtube-data-analysis/blob/f4bbc8a764a84ce9d6703296135a0aecc358e90b/Youtube%20de%20dashboard.pdf)
